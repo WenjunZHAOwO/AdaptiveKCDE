@@ -6,7 +6,7 @@ https://math.nyu.edu/~tabak/publications/KCDE_Paper.pdf
 
 ## Example usage
 
-For 1D example, try:
+For 1D example, try this script in MATLAB:
 ```
 Main_1D_ultimate
 ```
